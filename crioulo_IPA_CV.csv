@@ -132,9 +132,9 @@ Anxiamente,anʃiamente,VR.TV.V.RVR.TV,VC.CV.V.CVC.CV
 Apertamento,apeɾtamento,V.TVR.TV.RVR.TV,V.CVC.CV.CVC.CV
 apartamento,apaɾtamento,V.TVR.TV.RVR.TV,V.CVC.CV.CVC.CV
 Apinhá,apiɲaː,V.TV.RV,V.CV.CV
-Applicação,applikasaːo,V.T.TRV.TV.SV.V,V.C.CCV.CV.CV.V
-applicaçan,applikasan,V.T.TRV.TV.SVR,V.C.CCV.CV.CVC
-Approval,appɾoʋal,V.T.TRV.TVR,V.C.CCV.CVC
+Applicação,aplikasaːo,V.TRV.TV.SV.V,V.CCV.CV.CV.V
+applicaçan,aplikasan,V.TRV.TV.SVR,V.CCV.CV.CVC
+Approval,apɾoʋal,V.TRV.TVR,V.CCV.CVC
 April,apɾil,V.TRVR,V.CCVC
 Aquél,akeːl,V.TVR,V.CVC
 aquelle,akele,V.TV.RV,V.CV.CV
@@ -254,7 +254,7 @@ benzà,benzaː,TVR.SV,CVC.CV
 Bénza,beːnza,TVR.SV,CVC.CV
 bénzè,beːnzeː,TVR.SV,CVC.CV
 Berguer,beɾgeɾ,TVR.TVR,CVC.CVC
-Beryl,beɾjl,TVR.RR,CVC.CC
+Beryl,beɾil,TV.RVR,CV.CVC
 Béudo,beːudo,TV.V.TV,CV.V.CV
 Beudice,beudise,TVG.TV.SV,CVG.CV.CV
 Baibol,baibol,TV.V.TVR,CV.V.CVC
@@ -772,7 +772,7 @@ Differéncia,difeɾeːnsia,TV.TV.RVR.SV.V,CV.CV.CVC.CV.V
 Dinhéro,diɲeːɾo,TV.RV.RV,CV.CV.CV
 Directà,diɾektaː,TV.RV.T.TV,CV.CV.C.CV
 Disaccordancè,dizakoɾdanseː,TV.SV.TVR.TVR.SV,CV.CV.CVC.CVC.CV
-Desapprovado,dezappɾoʋado,TV.SV.T.TRV.TV.TV,CV.CV.C.CCV.CV.CV
+Desapprovado,dezapɾoʋado,TV.SV.TRV.TV.TV,CV.CV.CCV.CV.CV
 Discé,diseː,TV.SV,CV.CV
 Discendé,disendeː,TV.SVR.TV,CV.CVC.CV
 Discerto,diseɾto,TV.SVR.TV,CV.CVC.CV
@@ -992,7 +992,7 @@ Folgação,folgasaːo,TVR.TV.SV.V,CVC.CV.CV.V
 Folho,foʎo,TV.RV,CV.CV
 Folmac,folmak,TVR.RV.T,CVC.CV.C
 Fome,fome,TV.RV,CV.CV
-Fonte-crystal,fonte kɾjstal,TVR.TV TR.RS.TVR,CVC.CV CC.CC.CVC
+Fonte-crystal,fonte kɾistal,TVR.TV TRVS.TVR,CVC.CV CCVC.CVC
 Fontena,fontena,TVR.TV.RV,CVC.CV.CV
 Força,foɾsa,TVR.SV,CVC.CV
 forcè,foɾseː,TVR.SV,CVC.CV
@@ -1190,7 +1190,7 @@ Jà,d̠ʒaː,TV,CV
 Jadàwe,d̠ʒadaːʋe,TV.TV.TV,CV.CV.CV
 Jagra,d̠ʒagɾa,TV.TRV,CV.CCV
 Jam,d̠ʒam,TVR,CVC
-January,d̠ʒanuaɾj,TV.RV.VR.R,CV.CV.VC.C
+January,d̠ʒanuaɾi,TV.RV.V.RV,CV.CV.V.CV
 Jar,d̠ʒaɾ,TVR,CVC
 Jarès,d̠ʒaɾeːs,TV.RVS,CV.CVC
 Jàsper,d̠ʒaːspeɾ,TVS.TVR,CVC.CVC
@@ -1631,7 +1631,7 @@ Onte,onte,VR.TV,VC.CV
 ónti,oːnti,VR.TV,VC.CV
 ónta,oːnta,VR.TV,VC.CV
 Onzimo,onzimo,VR.SV.RV,VC.CV.CV
-Oppressà,oppɾesaː,V.T.TRV.SV,V.C.CCV.CV
+Oppressà,opɾesaː,V.TRV.SV,V.CCV.CV
 Oratória,oɾatoːɾia,V.RV.TV.RV.V,V.CV.CV.CV.V
 Orde,oɾde,VR.TV,VC.CV
 órdi,oːɾdi,VR.TV,VC.CV
@@ -2271,13 +2271,13 @@ sumanè,sumaneː,SV.RV.RV,CV.CV.CV
 Suo,suo,SV.V,CV.V
 Superemo,supeɾemo,SV.TV.RV.RV,CV.CV.CV.CV
 Supo,supo,SV.TV,CV.CV
-Supportá,suppoɾtaː,SV.T.TVR.TV,CV.C.CVC.CV
+Supportá,supoɾtaː,SV.TVR.TV,CV.CVC.CV
 supertá,supeɾtaː,SV.TVR.TV,CV.CVC.CV
-Súppodo,suːppodo,SV.T.TV.TV,CV.C.CV.CV
-súppudo,suːppudo,SV.T.TV.TV,CV.C.CV.CV
-Suppodomente,suppodomente,SV.T.TV.TV.RVR.TV,CV.C.CV.CV.CVC.CV
-Supporto,suppoɾto,SV.T.TVR.TV,CV.C.CVC.CV
-Suppressá,suppɾesaː,SV.T.TRV.SV,CV.C.CCV.CV
+Súppodo,suːpodo,SV.TV.TV,CV.CV.CV
+súppudo,suːpudo,SV.TV.TV,CV.CV.CV
+Suppodomente,supodomente,SV.TV.TV.RVR.TV,CV.CV.CV.CVC.CV
+Supporto,supoɾto,SV.TVR.TV,CV.CVC.CV
+Suppressá,supɾesaː,SV.TRV.SV,CV.CCV.CV
 Susaso,suzazo,SV.SV.SV,CV.CV.CV
 Suscedà,susedaː,SV.SV.TV,CV.CV.CV
 susdé,suzdeː,SVS.TV,CVC.CV
@@ -2299,7 +2299,7 @@ Tanga,tanga,TVR.TV,CVC.CV
 Tanjador,tand̠ʒadoɾ,TVR.TV.TVR,CVC.CV.CVC
 Tánta,taːnta,TVR.TV,CVC.CV
 Tantohora,tantooɾa,TVR.TV.V.RV,CVC.CV.V.CV
-Tappál,tappaːl,TV.T.TVR,CV.C.CVC
+Tappál,tapaːl,TV.TVR,CV.CVC
 Tardancè,taɾdanseː,TVR.TVR.SV,CVC.CVC.CV
 Tavemo,taʋemo,TV.TV.RV,CV.CV.CV
 Tax,taʃ,TV.T,CV.C
