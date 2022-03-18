@@ -70,10 +70,10 @@ Algoso,algozo,VR.TV.SV,VC.CV.CV
 Alguems,algems,VR.TVRS,VC.CVCC
 Alhum,aʎum,V.RVR,V.CVC
 alum,alum,V.RVR,V.CVC
-Alhuma,aʎuma,V.RV.RV,V.CV.CV
-algum de Alhumas,algum de aʎumas,VR.TVR TV V.RV.RVS,VC.CVC CV V.CV.CVC
-Alhumhoras,aʎumoɾas,V.RV.RV.RVS,V.CV.CV.CVC
-Alhumhoras...alhumhoras...,aʎumoɾas aʎumoɾas ,V.RV.RV.RVS V.RV.RV.RVS ,V.CV.CV.CVC V.CV.CV.CVC 
+Alhuma,aʎuma,V.RVRV,V.CVCV
+algum de Alhumas,algum de aʎumas,VR.TVR TV V.RVRVS,VC.CVC CV V.CVCVC
+Alhumhoras,aʎumoɾas,V.RVRV.RVS,V.CVCV.CVC
+Alhumhoras...alhumhoras...,aʎumoɾas aʎumoɾas ,V.RVRV.RVS V.RVRV.RVS ,V.CVCV.CVC V.CVCV.CVC 
 Allagrá,alagɾaː,V.RV.TRV,V.CV.CCV
 allagriá,alagɾiaː,V.RV.TRV.V,V.CV.CCV.V
 Allagre,alagɾe,V.RV.TRV,V.CV.CCV
@@ -86,8 +86,8 @@ Almazem,almazem,VR.RV.SVR,VC.CV.CVC
 Almóça,almoːsa,VR.RV.SV,VC.CV.CV
 Alqumas,alkumas,VR.TV.RVS,VC.CV.CVC
 Altividade,altiʋidade,VR.TV.TV.TV.TV,VC.CV.CV.CV.CV
-Alumado,alumado,V.RV.RV.TV,V.CV.CV.CV
-Aluminá,aluminaː,V.RV.RV.RV,V.CV.CV.CV
+Alumado,alumado,V.RVRV.TV,V.CVCV.CV
+Aluminá,aluminaː,V.RVRV.RV,V.CVCV.CV
 Alverção,alʋeɾsaːo,VR.TVR.SV.V,VC.CVC.CV.V
 Alvorsà,alʋoɾsaː,VR.TVR.SV,VC.CVC.CV
 alversá,alʋeɾsaː,VR.TVR.SV,VC.CVC.CV
@@ -95,13 +95,13 @@ Alvoroção,alʋoɾosaːo,VR.TV.RV.SV.V,VC.CV.CV.CV.V
 alvroço,alʋɾoso,VR.TRV.SV,VC.CCV.CV
 Causedor,kauzedoɾ,TVG.SV.TVR,CVG.CV.CVC
 Depalmião,depalmiaːo,TV.TVR.RV.VV,CV.CVC.CV.VV
-Amanhão,amaɲaːo,V.RV.RV.V,V.CV.CV.V
-aminhão,amiɲaːo,V.RV.RV.V,V.CV.CV.V
+Amanhão,amaɲaːo,V.RVRV.V,V.CVCV.V
+aminhão,amiɲaːo,V.RVRV.V,V.CVCV.V
 amião,amiaːo,V.RV.VV,V.CV.VV
 amiam,amiam,V.RV.VR,V.CV.VC
-Amaroso,amaɾozo,V.RV.RV.SV,V.CV.CV.CV
-ameroso,ameɾozo,V.RV.RV.SV,V.CV.CV.CV
-amoro,amoɾo,V.RV.RV,V.CV.CV
+Amaroso,amaɾozo,V.RVRV.SV,V.CVCV.CV
+ameroso,ameɾozo,V.RVRV.SV,V.CVCV.CV
+amoro,amoɾo,V.RVRV,V.CVCV
 Ambal,ambal,VR.TVR,VC.CVC
 Améças,ameːsas,V.RV.SVS,V.CV.CVC
 Amiçan,amisan,V.RV.SVR,V.CV.CVC
@@ -113,8 +113,8 @@ Ampér,ampeːɾ,VR.TVR,VC.CVC
 Amportà,ampoɾtaː,VR.TVR.TV,VC.CVC.CV
 Andà,andaː,VR.TV,VC.CV
 andavè,andaʋeː,VR.TV.TV,VC.CV.CV
-Anela,anela,V.RV.RV,V.CV.CV
-Anima,anima,V.RV.RV,V.CV.CV
+Anela,anela,V.RVRV,V.CVCV
+Anima,anima,V.RVRV,V.CVCV
 Anjo-chusmos,and̠ʒo t̠ʃuzmos,VR.TV TVS.RVS,VC.CV CVC.CVC
 Anjo-cuidador,and̠ʒo kuidadoɾ,VR.TV TV.V.TV.TVR,VC.CV CV.V.CV.CVC
 Anjo-fallas,and̠ʒo falas,VR.TV TV.RVS,VC.CV CV.CVC
@@ -143,13 +143,13 @@ Arco,aɾko,VR.TV,VC.CV
 Ária,aːɾia,V.RV.V,V.CV.V
 Arià,aɾiaː,V.RV.V,V.CV.V
 Ariba,aɾiba,V.RV.TV,V.CV.CV
-Aromatizàrs,aɾomatizaːɾs,V.RV.RV.TV.SVRS,V.CV.CV.CV.CVCC
+Aromatizàrs,aɾomatizaːɾs,V.RVRV.TV.SVRS,V.CVCV.CV.CVCC
 Aros,aɾos,V.RVS,V.CVC
 Artaple,aɾtaple,VR.TV.TRV,VC.CV.CCV
 Ártei,aːɾtei,VR.TVG,VC.CVG
 Articulo,aɾtikulo,VR.TV.TV.RV,VC.CV.CV.CV
 Artifiço,aɾtifiso,VR.TV.TV.SV,VC.CV.CV.CV
-Artilháris,aɾtiʎaːɾis,VR.TV.RV.RVS,VC.CV.CV.CVC
+Artilháris,aɾtiʎaːɾis,VR.TV.RVRVS,VC.CV.CVCVC
 Ásper,aːspeɾ,VS.TVR,VC.CVC
 Asperà,aspeɾaː,VS.TV.RV,VC.CV.CV
 Asperdade,aspeɾdade,VS.TVR.TV.TV,VC.CVC.CV.CV
@@ -283,7 +283,7 @@ Boftada,boftada,TV.T.TV.TV,CV.C.CV.CV
 Boltiá,boltiaː,TVR.TV.V,CVC.CV.V
 Bom,bom,TVR,CVC
 Bonancè,bonanseː,TV.RVR.SV,CV.CVC.CV
-Bonino,bonino,TV.RV.RV,CV.CV.CV
+Bonino,bonino,TV.RVRV,CV.CVCV
 Buts,buts,TV.TS,CV.CC
 Bordè,boɾdeː,TVR.TV,CVC.CV
 Bordiá,boɾdiaː,TVR.TV.V,CVC.CV.V
@@ -307,9 +307,9 @@ Brao,bɾao,TRV.V,CCV.V
 brau,bɾau,TRVG,CCVG
 Braviá,bɾaʋiaː,TRV.TV.V,CCV.CV.V
 Brazá,bɾazaː,TRV.SV,CCV.CV
-Bremellio,bɾemelio,TRV.RV.RV.V,CCV.CV.CV.V
-brimellio,bɾimelio,TRV.RV.RV.V,CCV.CV.CV.V
-brimalho,bɾimaʎo,TRV.RV.RV,CCV.CV.CV
+Bremellio,bɾemelio,TRV.RVRV.V,CCV.CVCV.V
+brimellio,bɾimelio,TRV.RVRV.V,CCV.CVCV.V
+brimalho,bɾimaʎo,TRV.RVRV,CCV.CVCV
 brimejo,bɾimed̠ʒo,TRV.RV.TV,CCV.CV.CV
 Brinc'-de-fogo,bɾin k ə de fogo,TRVR T V TV TV.TV,CCVC C V CV CV.CV
 Búrdar,buːɾdaɾ,TVR.TVR,CVC.CVC
@@ -340,7 +340,7 @@ Caçaria,kasaɾia,TV.SV.RV.V,CV.CV.CV.V
 Cacada,kakada,TV.TV.TV,CV.CV.CV
 Cacho,kat̠ʃo,TV.TV,CV.CV
 Cachór,kat̠ʃoːɾ,TV.TVR,CV.CVC
-Cachorinho,kat̠ʃoɾiɲo,TV.TV.RV.RV,CV.CV.CV.CV
+Cachorinho,kat̠ʃoɾiɲo,TV.TV.RVRV,CV.CV.CVCV
 Cadahora,kadaoɾa,TV.TV.V.RV,CV.CV.V.CV
 cadora,kadoɾa,TV.TV.RV,CV.CV.CV
 cadhor,kadoɾ,TV.TVR,CV.CVC
@@ -364,12 +364,12 @@ Cambra,kambɾa,TVR.TRV,CVC.CCV
 cambrè,kambɾeː,TVR.TRV,CVC.CCV
 càmber,kaːmbeɾ,TVR.TVR,CVC.CVC
 Cambrão,kambɾaːo,TVR.TRV.V,CVC.CCV.V
-Cam'rado,kaməɾado,TV.RV.RV.TV,CV.CV.CV.CV
+Cam'rado,kaməɾado,TV.RVRV.TV,CV.CVCV.CV
 cambrado,kambɾado,TVR.TRV.TV,CVC.CCV.CV
 Campal,kampal,TVR.TVR,CVC.CVC
 Can',kanə,TV.RV,CV.CV
 candè,kandeː,TVR.TV,CVC.CV
-Canàlhi,kanaːʎi,TV.RV.RV,CV.CV.CV
+Canàlhi,kanaːʎi,TV.RVRV,CV.CVCV
 Cançàs,kansaːs,TVR.SVS,CVC.CVC
 Câncer,kaːnseɾ,TVR.SVR,CVC.CVC
 Candecera,kandeseɾa,TVR.TV.SV.RV,CVC.CV.CV.CV
@@ -385,7 +385,7 @@ Captão,kaptaːo,TV.T.TV.V,CV.C.CV.V
 capitano,kapitano,TV.TV.TV.RV,CV.CV.CV.CV
 Caravão,kaɾaʋaːo,TV.RV.TV.V,CV.CV.CV.V
 Careiro,kaɾeiɾo,TV.RVG.RV,CV.CVG.CV
-cararo,kaɾaɾo,TV.RV.RV,CV.CV.CV
+cararo,kaɾaɾo,TV.RVRV,CV.CVCV
 Cargá,kaɾgaː,TVR.TV,CVC.CV
 Cargação,kaɾgasaːo,TVR.TV.SV.V,CVC.CV.CV.V
 Cari,kaɾi,TV.RV,CV.CV
@@ -415,9 +415,9 @@ Catividade,katiʋidade,TV.TV.TV.TV.TV,CV.CV.CV.CV.CV
 Catàrr,kataːr,TV.TVR,CV.CVC
 Causo,kauzo,TVG.SV,CVG.CV
 Cavador,kaʋadoɾ,TV.TV.TVR,CV.CV.CVC
-Cavalheria,kaʋaʎeɾia,TV.TV.RV.RV.V,CV.CV.CV.CV.V
+Cavalheria,kaʋaʎeɾia,TV.TV.RVRV.V,CV.CV.CVCV.V
 Cavente,kaʋente,TV.TVR.TV,CV.CVC.CV
-Cavelyéro,kaʋelʲeːɾo,TV.TV.RV.RV,CV.CV.CV.CV
+Cavelyéro,kaʋelʲeːɾo,TV.TV.RVRV,CV.CV.CVCV
 Cavelo,kaʋelo,TV.TV.RV,CV.CV.CV
 Caverno,kaʋeɾno,TV.TVR.RV,CV.CVC.CV
 Caxa,kaʃa,TV.TV,CV.CV
@@ -425,7 +425,7 @@ Cendê,sendeː,SVR.TV,CVC.CV
 Cento,sento,SVR.TV,CVC.CV
 centa,senta,SVR.TV,CVC.CV
 Cents,sents,SVR.TS,CVC.CC
-Ceremonio,seɾemonio,SV.RV.RV.RV.V,CV.CV.CV.CV.V
+Ceremonio,seɾemonio,SV.RVRV.RV.V,CV.CVCV.CV.V
 Certeza,seɾteza,SVR.TV.SV,CVC.CV.CV
 certézè,seɾteːzeː,SVR.TV.SV,CVC.CV.CV
 Chabuco,t̠ʃabuko,TV.TV.TV,CV.CV.CV
@@ -498,28 +498,28 @@ Combersan,kombeɾsan,TVR.TVR.SVR,CVC.CVC.CVC
 Começa,komesa,TV.RV.SV,CV.CV.CV
 Comedi,komedi,TV.RV.TV,CV.CV.CV
 comédè,komeːdeː,TV.RV.TV,CV.CV.CV
-Comera,komeɾa,TV.RV.RV,CV.CV.CV
-comêrè,komeːɾeː,TV.RV.RV,CV.CV.CV
-comero,komeɾo,TV.RV.RV,CV.CV.CV
+Comera,komeɾa,TV.RVRV,CV.CVCV
+comêrè,komeːɾeː,TV.RVRV,CV.CVCV
+comero,komeɾo,TV.RVRV,CV.CVCV
 comeira,komeiɾa,TV.RVG.RV,CV.CVG.CV
-coméria,komeːɾia,TV.RV.RV.V,CV.CV.CV.V
+coméria,komeːɾia,TV.RVRV.V,CV.CVCV.V
 Comers,komeɾs,TV.RVRS,CV.CVCC
 Comfortable,komfoɾtable,TVR.TVR.TV.TRV,CVC.CVC.CV.CCV
 Comidá,komidaː,TV.RV.TV,CV.CV.CV
 Comidação,komidasaːo,TV.RV.TV.SV.V,CV.CV.CV.CV.V
 Commettá,kometːaː,TV.RV.TV,CV.CV.CV
 Comménda,komeːnda,TV.RVR.TV,CV.CVC.CV
-Comminhão,komiɲaːo,TV.RV.RV.V,CV.CV.CV.V
-Communigá,komunigaː,TV.RV.RV.TV,CV.CV.CV.CV
+Comminhão,komiɲaːo,TV.RVRV.V,CV.CVCV.V
+Communigá,komunigaː,TV.RVRV.TV,CV.CVCV.CV
 Companha,kompaɲa,TVR.TV.RV,CVC.CV.CV
 compinha,kompiɲa,TVR.TV.RV,CVC.CV.CV
 Companhà,kompaɲaː,TVR.TV.RV,CVC.CV.CV
 compinhà,kompiɲaː,TVR.TV.RV,CVC.CV.CV
-Companhamen-to,kompaɲamen to,TVR.TV.RV.RVR TV,CVC.CV.CV.CVC CV
-companhimento,kompaɲimento,TVR.TV.RV.RVR.TV,CVC.CV.CV.CVC.CV
-compinhamento,kompiɲamento,TVR.TV.RV.RVR.TV,CVC.CV.CV.CVC.CV
+Companhamen-to,kompaɲamen to,TVR.TV.RVRVR TV,CVC.CV.CVCVC CV
+companhimento,kompaɲimento,TVR.TV.RVRVR.TV,CVC.CV.CVCVC.CV
+compinhamento,kompiɲamento,TVR.TV.RVRVR.TV,CVC.CV.CVCVC.CV
 Compinhador,kompiɲadoɾ,TVR.TV.RV.TVR,CVC.CV.CV.CVC
-Companhério,kompaɲeːɾio,TVR.TV.RV.RV.V,CVC.CV.CV.CV.V
+Companhério,kompaɲeːɾio,TVR.TV.RVRV.V,CVC.CV.CVCV.V
 compinheiro,kompiɲeiɾo,TVR.TV.RVG.RV,CVC.CV.CVG.CV
 Compania,kompania,TVR.TV.RV.V,CVC.CV.CV.V
 Competè,kompeteː,TVR.TV.TV,CVC.CV.CV
@@ -554,8 +554,8 @@ Conselação,konselasaːo,TVR.SV.RV.SV.V,CVC.CV.CV.CV.V
 consalação,konsalasaːo,TVR.SV.RV.SV.V,CVC.CV.CV.CV.V
 Conselador,konseladoɾ,TVR.SV.RV.TVR,CVC.CV.CV.CVC
 Conselyo,konselʲo,TVR.SV.RV,CVC.CV.CV
-Conselharo,konseʎaɾo,TVR.SV.RV.RV,CVC.CV.CV.CV
-conselhéro,konseʎeːɾo,TVR.SV.RV.RV,CVC.CV.CV.CV
+Conselharo,konseʎaɾo,TVR.SV.RVRV,CVC.CV.CVCV
+conselhéro,konseʎeːɾo,TVR.SV.RVRV,CVC.CV.CVCV
 conseleiro,konseleiɾo,TVR.SV.RVG.RV,CVC.CV.CVG.CV
 Consente,konsente,TVR.SVR.TV,CVC.CVC.CV
 Consequences,konsekenses,TVR.SV.TVR.SVS,CVC.CV.CVC.CVC
@@ -620,7 +620,7 @@ Crescentà,kɾesentaː,TRV.SVR.TV,CCV.CVC.CV
 criscentá,kɾisentaː,TRV.SVR.TV,CCV.CVC.CV
 Criançè,kɾianseː,TRV.VR.SV,CCV.VC.CV
 criença,kɾiensa,TRV.VR.SV,CCV.VC.CV
-Criminal,kɾiminal,TRV.RV.RVR,CCV.CV.CVC
+Criminal,kɾiminal,TRV.RVRVR,CCV.CVCVC
 Criscé,kɾiseː,TRV.SV,CCV.CV
 crisé,kɾizeː,TRV.SV,CCV.CV
 Crucifigà,kɾusifigaː,TRV.SV.TV.TV,CCV.CV.CV.CV
@@ -679,13 +679,13 @@ defencè,defenseː,TV.TVR.SV,CV.CVC.CV
 Deido,deido,TVG.TV,CVG.CV
 Deixa,deiʃa,TVG.TV,CVG.CV
 dessa,desa,TV.SV,CV.CV
-Demóni,demoːni,TV.RV.RV,CV.CV.CV
+Demóni,demoːni,TV.RVRV,CV.CVCV
 Denheiro,deɲeiɾo,TV.RVG.RV,CV.CVG.CV
 Déntor,deːntoɾ,TVR.TVR,CVC.CVC
 Dentro-voz,dentɾo ʋos,TVR.TRV TVS,CVC.CCV CVC
 Deos-bénza,deos beːnza,TV.VS TVR.SV,CV.VC CVC.CV
 Dér,deːɾ,TVR,CVC
-Deremá,deɾemaː,TV.RV.RV,CV.CV.CV
+Deremá,deɾemaː,TV.RVRV,CV.CVCV
 Desasparà,dezaspaɾaː,TV.SVS.TV.RV,CV.CVC.CV.CV
 Descargà,deskaɾgaː,TVS.TVR.TV,CVC.CVC.CV
 Desci,desi,TV.SV,CV.CV
@@ -769,7 +769,7 @@ Diamante-jubli,diamante d̠ʒubli,TV.V.RVR.TV TV.TRV,CV.V.CVC.CV CV.CCV
 Diantá,diantaː,TV.VR.TV,CV.VC.CV
 Diante-casa,diante kaza,TV.VR.TV TV.SV,CV.VC.CV CV.CV
 Differéncia,difeɾeːnsia,TV.TV.RVR.SV.V,CV.CV.CVC.CV.V
-Dinhéro,diɲeːɾo,TV.RV.RV,CV.CV.CV
+Dinhéro,diɲeːɾo,TV.RVRV,CV.CVCV
 Directà,diɾektaː,TV.RV.T.TV,CV.CV.C.CV
 Disaccordancè,dizakoɾdanseː,TV.SV.TVR.TVR.SV,CV.CV.CVC.CVC.CV
 Desapprovado,dezapɾoʋado,TV.SV.TRV.TV.TV,CV.CV.CCV.CV.CV
@@ -793,7 +793,7 @@ Disfieldade,disfieldade,TVS.TV.VR.TV.TV,CVC.CV.VC.CV.CV
 Disgerado,dizd̠ʒeɾado,TVS.TV.RV.TV,CVC.CV.CV.CV
 Disgosto,dizgosto,TVS.TVS.TV,CVC.CVC.CV
 Dish,diʃ,TV.T,CV.C
-Dishonorá,diʃonoɾaː,TV.TV.RV.RV,CV.CV.CV.CV
+Dishonorá,diʃonoɾaː,TV.TV.RVRV,CV.CV.CVCV
 Dishonrável,diʃonɾaːʋel,TV.TVR.RV.TVR,CV.CVC.CV.CVC
 Dislevedado,dizleʋedado,TVS.RV.TV.TV.TV,CVC.CV.CV.CV.CV
 Dismercé,dizmeɾseː,TVS.RVR.SV,CVC.CVC.CV
@@ -832,7 +832,7 @@ dodiço,dodiso,TV.TV.SV,CV.CV.CV
 Dodado,dodado,TV.TV.TV,CV.CV.CV
 Doençá,doensaː,TV.VR.SV,CV.VC.CV
 Dolôr,doloːɾ,TV.RVR,CV.CVC
-Dominião,dominiaːo,TV.RV.RV.VV,CV.CV.CV.VV
+Dominião,dominiaːo,TV.RVRV.VV,CV.CVCV.VV
 Dor-quebrado,doɾ kebɾado,TVR TV.TRV.TV,CVC CV.CCV.CV
 Dós,doːs,TVS,CVC
 dous,dous,TVGS,CVGC
@@ -883,13 +883,13 @@ Engeità,end̠ʒeitaː,VR.TVG.TV,VC.CVG.CV
 Englanterra,englantera,VR.TRVR.TV.RV,VC.CCVC.CV.CV
 Engrato,engɾato,VR.TRV.TV,VC.CCV.CV
 Enguento,engento,VR.TVR.TV,VC.CVC.CV
-Enimigo,enimigo,V.RV.RV.TV,V.CV.CV.CV
-enimingo,enimingo,V.RV.RVR.TV,V.CV.CVC.CV
-enemingo,enemingo,V.RV.RVR.TV,V.CV.CVC.CV
+Enimigo,enimigo,V.RVRV.TV,V.CVCV.CV
+enimingo,enimingo,V.RVRVR.TV,V.CVCVC.CV
+enemingo,enemingo,V.RVRVR.TV,V.CVCVC.CV
 Enjoelho,end̠ʒoeʎo,VR.TV.V.RV,VC.CV.V.CV
 Enjoelhá,end̠ʒoeʎaː,VR.TV.V.RV,VC.CV.V.CV
 Enjusticia,end̠ʒustisia,VR.TVS.TV.SV.V,VC.CVC.CV.CV.V
-Enluminá,enluminaː,VR.RV.RV.RV,VC.CV.CV.CV
+Enluminá,enluminaː,VR.RV.RVRV,VC.CV.CVCV
 enlumiá,enlumiaː,VR.RV.RV.V,VC.CV.CV.V
 Enrodiá,enɾodiaː,VR.RV.TV.V,VC.CV.CV.V
 Ensinador,ensinadoɾ,VR.SV.RV.TVR,VC.CV.CV.CVC
@@ -927,10 +927,10 @@ Falsodade,falsodade,TVR.SV.TV.TV,CVC.CV.CV.CV
 Faltança,faltansa,TVR.TVR.SV,CVC.CVC.CV
 Famado,famado,TV.RV.TV,CV.CV.CV
 Fámea,faːmea,TV.RV.V,CV.CV.V
-Familha,famiʎa,TV.RV.RV,CV.CV.CV
-familyè,familʲeː,TV.RV.RV,CV.CV.CV
-Familha-oração,famiʎa oɾasaːo,TV.RV.RV V.RV.SV.V,CV.CV.CV V.CV.CV.V
-Familhado,famiʎado,TV.RV.RV.TV,CV.CV.CV.CV
+Familha,famiʎa,TV.RVRV,CV.CVCV
+familyè,familʲeː,TV.RVRV,CV.CVCV
+Familha-oração,famiʎa oɾasaːo,TV.RVRV V.RV.SV.V,CV.CVCV V.CV.CV.V
+Familhado,famiʎado,TV.RVRV.TV,CV.CVCV.CV
 Faz,fas,TVS,CVC
 Féxon,feːʃon,TV.TVR,CV.CVC
 Favorà,faʋoɾaː,TV.TV.RV,CV.CV.CV
@@ -954,7 +954,7 @@ Feudade,feudade,TVG.TV.TV,CVG.CV.CV
 Ferão,feɾaːo,TV.RV.V,CV.CV.V
 Ferido,feɾido,TV.RV.TV,CV.CV.CV
 Fero,feɾo,TV.RV,CV.CV
-Ferraro,feraɾo,TV.RV.RV,CV.CV.CV
+Ferraro,feraɾo,TV.RVRV,CV.CVCV
 Fessão,fesaːo,TV.SV.V,CV.CV.V
 Festè,festeː,TVS.TV,CVC.CV
 Festià,festiaː,TVS.TV.V,CVC.CV.V
@@ -1051,7 +1051,7 @@ Gajo,gad̠ʒo,TV.TV,CV.CV
 ganyo,ganʲo,TV.RV,CV.CV
 Ganyà,ganʲaː,TV.RV,CV.CV
 Galyardè,galʲaɾdeː,TV.RVR.TV,CV.CVC.CV
-Gamela,gamela,TV.RV.RV,CV.CV.CV
+Gamela,gamela,TV.RVRV,CV.CVCV
 Gardá,gaɾdaː,TVR.TV,CVC.CV
 Gardamento,gaɾdamento,TVR.TV.RVR.TV,CVC.CV.CVC.CV
 Gardecé,gaɾdeseː,TVR.TV.SV,CVC.CV.CV
@@ -1069,8 +1069,8 @@ Gazià,gaziaː,TV.SV.V,CV.CV.V
 Gaziação,gaziasaːo,TV.SV.V.SV.V,CV.CV.V.CV.V
 Gemedores,d̠ʒemedoɾes,TV.RV.TV.RVS,CV.CV.CV.CVC
 Gemeduras,d̠ʒemeduɾas,TV.RV.TV.RVS,CV.CV.CV.CVC
-Generà,d̠ʒeneɾaː,TV.RV.RV,CV.CV.CV
-Generalmente,d̠ʒeneɾalmente,TV.RV.RVR.RVR.TV,CV.CV.CVC.CVC.CV
+Generà,d̠ʒeneɾaː,TV.RVRV,CV.CVCV
+Generalmente,d̠ʒeneɾalmente,TV.RVRVR.RVR.TV,CV.CVCVC.CVC.CV
 Gentigo,d̠ʒentigo,TVR.TV.TV,CVC.CV.CV
 Geresan,d̠ʒeɾezan,TV.RV.SVR,CV.CV.CVC
 Glass,glas,TRVS,CCVC
@@ -1080,7 +1080,7 @@ goldiça,goldisa,TVR.TV.SV,CVC.CV.CV
 Goldiçà,goldisaː,TVR.TV.SV,CVC.CV.CV
 Gotiá,gotiaː,TV.TV.V,CV.CV.V
 Gourdo,gouɾdo,TVGR.TV,CVGC.CV
-Govemamento,goʋemamento,TV.TV.RV.RVR.TV,CV.CV.CV.CVC.CV
+Govemamento,goʋemamento,TV.TV.RVRVR.TV,CV.CV.CVCVC.CV
 Governo,goʋeɾno,TV.TVR.RV,CV.CVC.CV
 Gaun,gaun,TVGR,CVGC
 Gracè,gɾaseː,TRV.SV,CCV.CV
@@ -1124,8 +1124,8 @@ Homicido,omisido,V.RV.SV.TV,V.CV.CV.CV
 Honeste,oneste,V.RVS.TV,V.CVC.CV
 Honestemente,onestemente,V.RVS.TV.RVR.TV,V.CVC.CV.CVC.CV
 Honourado,onouɾado,V.RVG.RV.TV,V.CVG.CV.CV
-honerado,oneɾado,V.RV.RV.TV,V.CV.CV.CV
-Honoravel,onoɾaʋel,V.RV.RV.TVR,V.CV.CV.CVC
+honerado,oneɾado,V.RVRV.TV,V.CVCV.CV
+Honoravel,onoɾaʋel,V.RVRV.TVR,V.CVCV.CVC
 Hortè,oɾteː,VR.TV,VC.CV
 Hortalão,oɾtalaːo,VR.TV.RV.V,VC.CV.CV.V
 hortolão,oɾtolaːo,VR.TV.RV.V,VC.CV.CV.V
@@ -1133,7 +1133,7 @@ Huã,uaː,V.V,V.V
 Húmè,uːmeː,V.RV,V.CV
 Humildo,umildo,V.RVR.TV,V.CVC.CV
 Humildeza,umildeza,V.RVR.TV.SV,V.CVC.CV.CV
-Humiliação,umiliasaːo,V.RV.RV.V.SV.V,V.CV.CV.V.CV.V
+Humiliação,umiliasaːo,V.RVRV.V.SV.V,V.CVCV.V.CV.V
 Hypocritico,jpokɾitiko,R.TV.TRV.TV.TV,C.CV.CCV.CV.CV
 Aiç,ais,V.VS,V.VC
 Idade,idade,V.TV.TV,V.CV.CV
@@ -1160,12 +1160,12 @@ Incredivel,inkɾediʋel,VR.TRV.TV.TVR,VC.CCV.CV.CVC
 Indè,indeː,VR.TV,VC.CV
 Indulgéncè,induld̠ʒeːnseː,VR.TVR.TVR.SV,VC.CVC.CVC.CV
 Ingratidade,ingɾatidade,VR.TRV.TV.TV.TV,VC.CCV.CV.CV.CV
-Inimingo,inimingo,V.RV.RVR.TV,V.CV.CVC.CV
-inemingo,inemingo,V.RV.RVR.TV,V.CV.CVC.CV
+Inimingo,inimingo,V.RVRVR.TV,V.CVCVC.CV
+inemingo,inemingo,V.RVRVR.TV,V.CVCVC.CV
 Inexpressavel,ineʃpɾesaʋel,V.RV.T.TRV.SV.TVR,V.CV.C.CCV.CV.CVC
 Infruitoso,infɾuitozo,VR.TRV.V.TV.SV,VC.CCV.V.CV.CV
 Ingres,ingɾes,VR.TRVS,VC.CCVC
-Inimizade,inimizade,V.RV.RV.SV.TV,V.CV.CV.CV.CV
+Inimizade,inimizade,V.RVRV.SV.TV,V.CVCV.CV.CV
 Injoelho,ind̠ʒoeʎo,VR.TV.V.RV,VC.CV.V.CV
 injivelho,ind̠ʒiʋeʎo,VR.TV.TV.RV,VC.CV.CV.CV
 injevejo,ind̠ʒeʋed̠ʒo,VR.TV.TV.TV,VC.CV.CV.CV
@@ -1180,7 +1180,7 @@ Intergridade,inteɾgɾidade,VR.TVR.TRV.TV.TV,VC.CVC.CCV.CV.CV
 Internal,inteɾnal,VR.TVR.RVR,VC.CVC.CVC
 Intrudição,intɾudisaːo,VR.TRV.TV.SV.V,VC.CCV.CV.CV.V
 Inveijo,inʋeid̠ʒo,VR.TVG.TV,VC.CVG.CV
-Iremão,iɾemaːo,V.RV.RV.V,V.CV.CV.V
+Iremão,iɾemaːo,V.RVRV.V,V.CVCV.V
 Irès,iɾeːs,V.RVS,V.CVC
 Irmana,iɾmana,VR.RV.RV,VC.CV.CV
 Iscóchi,iskoːt̠ʃi,VS.TV.TV,VC.CV.CV
@@ -1290,7 +1290,7 @@ Lichim,lit̠ʃim,RV.TVR,CV.CVC
 Limita,limita,RV.RV.TV,CV.CV.CV
 limito,limito,RV.RV.TV,CV.CV.CV
 Lingareiro,lingaɾeiɾo,RVR.TV.RVG.RV,CVC.CV.CVG.CV
-lingerero,lind̠ʒeɾeɾo,RVR.TV.RV.RV,CVC.CV.CV.CV
+lingerero,lind̠ʒeɾeɾo,RVR.TV.RVRV,CVC.CV.CVCV
 Lingo,lingo,RVR.TV,CVC.CV
 Linguerção,lingeɾsaːo,RVR.TVR.SV.V,CVC.CVC.CV.V
 lingersan,lind̠ʒeɾsan,RVR.TVR.SVR,CVC.CVC.CVC
@@ -1319,13 +1319,13 @@ Lugar-gosto,lugaɾ gosto,RV.TVR TVS.TV,CV.CVC CVC.CV
 Luguéra,lugeːɾa,RV.TV.RV,CV.CV.CV
 Luma,luma,RV.RV,CV.CV
 Lumár,lumaːɾ,RV.RVR,CV.CVC
-lumára,lumaːɾa,RV.RV.RV,CV.CV.CV
-lumaré,lumaɾeː,RV.RV.RV,CV.CV.CV
+lumára,lumaːɾa,RV.RVRV,CV.CVCV
+lumaré,lumaɾeː,RV.RVRV,CV.CVCV
 Lumado,lumado,RV.RV.TV,CV.CV.CV
 Lumià,lumiaː,RV.RV.V,CV.CV.V
-Luminário,luminaːɾio,RV.RV.RV.RV.V,CV.CV.CV.CV.V
-luminairo,luminaiɾo,RV.RV.RV.V.RV,CV.CV.CV.V.CV
-lum'nario,lumənaɾio,RV.RV.RV.RV.V,CV.CV.CV.CV.V
+Luminário,luminaːɾio,RV.RVRV.RV.V,CV.CVCV.CV.V
+luminairo,luminaiɾo,RV.RVRV.V.RV,CV.CVCV.V.CV
+lum'nario,lumənaɾio,RV.RVRV.RV.V,CV.CVCV.CV.V
 Luzé,luzeː,RV.SV,CV.CV
 Luzindo,luzindo,RV.SVR.TV,CV.CVC.CV
 Maas,mas,RVS,CVC
@@ -1352,7 +1352,7 @@ Maldiçansa,maldisansa,RVR.TV.SVR.SV,CVC.CV.CVC.CV
 Maldiçoà,maldisoaː,RVR.TV.SV.V,CVC.CV.CV.V
 maldiçà,maldisaː,RVR.TV.SV,CVC.CV.CV
 Malfetor,malfetoɾ,RVR.TV.TVR,CVC.CV.CVC
-Malino,malino,RV.RV.RV,CV.CV.CV
+Malino,malino,RV.RVRV,CV.CVCV
 Mal-prestado,mal pɾestado,RVR TRVS.TV.TV,CVC CCVC.CV.CV
 Malusancia,maluzansia,RV.RV.SVR.SV.V,CV.CV.CVC.CV.V
 Mamma,mama,RV.RV,CV.CV
@@ -1377,7 +1377,7 @@ Maradura,maɾaduɾa,RV.RV.TV.RV,CV.CV.CV.CV
 Mára,maːɾa,RV.RV,CV.CV
 marè,maɾeː,RV.RV,CV.CV
 Martch,maɾt̠ʃ,RVR.T,CVC.C
-Marello,maɾelo,RV.RV.RV,CV.CV.CV
+Marello,maɾelo,RV.RVRV,CV.CVCV
 Marga,maɾga,RVR.TV,CVC.CV
 Margôra,maɾgoːɾa,RVR.TV.RV,CVC.CV.CV
 Margoso,maɾgozo,RVR.TV.SV,CVC.CV.CV
@@ -1415,7 +1415,7 @@ Megoà,megoaː,RV.TV.V,CV.CV.V
 melgoá,melgoaː,RVR.TV.V,CVC.CV.V
 Megoador,megoadoɾ,RV.TV.V.TVR,CV.CV.V.CVC
 Meido,meido,RVG.TV,CVG.CV
-Melhoramente,meʎoɾamente,RV.RV.RV.RVR.TV,CV.CV.CV.CVC.CV
+Melhoramente,meʎoɾamente,RV.RVRV.RVR.TV,CV.CVCV.CVC.CV
 Mellifluoso,melifluozo,RV.RV.TRV.V.SV,CV.CV.CCV.V.CV
 Memo,memo,RV.RV,CV.CV
 Memoso,memozo,RV.RV.SV,CV.CV.CV
@@ -1447,7 +1447,7 @@ Mail,mail,RV.VR,CV.VC
 Militàrio,militaːɾio,RV.RV.TV.RV.V,CV.CV.CV.CV.V
 Millions,milions,RV.RV.VRS,CV.CV.VCC
 Mils,mils,RVRS,CVCC
-Mimôri,mimoːɾi,RV.RV.RV,CV.CV.CV
+Mimôri,mimoːɾi,RV.RVRV,CV.CVCV
 Minguação,minguasaːo,RVR.TV.V.SV.V,CVC.CV.V.CV.V
 Minha,miɲa,RV.RV,CV.CV
 minhè,miɲeː,RV.RV,CV.CV
@@ -1502,7 +1502,7 @@ Mudana,mudana,RV.TV.RV,CV.CV.CV
 Mudáncè,mudaːnseː,RV.TVR.SV,CV.CVC.CV
 mudação,mudasaːo,RV.TV.SV.V,CV.CV.CV.V
 Mudano,mudano,RV.TV.RV,CV.CV.CV
-Mulhàra,muʎaːɾa,RV.RV.RV,CV.CV.CV
+Mulhàra,muʎaːɾa,RV.RVRV,CV.CVCV
 Mulvado,mulʋado,RVR.TV.TV,CVC.CV.CV
 Mundado,mundado,RVR.TV.TV,CVC.CV.CV
 Mundoso,mundozo,RVR.TV.SV,CVC.CV.CV
@@ -1623,7 +1623,7 @@ Olyà,olʲaː,V.RV,V.CV
 oyà,ojaː,V.RV,V.CV
 Olyo,olʲo,V.RV,V.CV
 Ómber,oːmbeɾ,VR.TVR,VC.CVC
-Omóris,omoːɾis,V.RV.RVS,V.CV.CVC
+Omóris,omoːɾis,V.RVRVS,V.CVCVC
 Omp,omp,VR.T,VC.C
 ompi,ompi,VR.TV,VC.CV
 Ontà,ontaː,VR.TV,VC.CV
@@ -1707,7 +1707,7 @@ Parentelha,paɾenteʎa,TV.RVR.TV.RV,CV.CVC.CV.CV
 Parentes,paɾentes,TV.RVR.TVS,CV.CVC.CVC
 Parentesca,paɾenteska,TV.RVR.TVS.TV,CV.CVC.CVC.CV
 Parol,paɾol,TV.RVR,CV.CVC
-Paroliero,paɾolieɾo,TV.RV.RV.V.RV,CV.CV.CV.V.CV
+Paroliero,paɾolieɾo,TV.RVRV.V.RV,CV.CVCV.V.CV
 Parpora,paɾpoɾa,TVR.TV.RV,CVC.CV.CV
 Parque,paɾke,TVR.TV,CVC.CV
 parqui,paɾki,TVR.TV,CVC.CV
@@ -1732,8 +1732,8 @@ pastor,pastoɾ,TVS.TVR,CVC.CVC
 Pasteá,pasteaː,TVS.TV.V,CVC.CV.V
 Pastempo,pastempo,TVS.TVR.TV,CVC.CVC.CV
 Pastrinho,pastɾiɲo,TVS.TRV.RV,CVC.CCV.CV
-pasterinho,pasteɾiɲo,TVS.TV.RV.RV,CVC.CV.CV.CV
-pastronélè,pastɾoneːleː,TVS.TRV.RV.RV,CVC.CCV.CV.CV
+pasterinho,pasteɾiɲo,TVS.TV.RVRV,CVC.CV.CVCV
+pastronélè,pastɾoneːleː,TVS.TRV.RVRV,CVC.CCV.CVCV
 Pastro,pastɾo,TVS.TRV,CVC.CCV
 pastúr,pastuːɾ,TVS.TVR,CVC.CVC
 Pateca,pateka,TV.TV.TV,CV.CV.CV
@@ -1761,12 +1761,12 @@ Pelegrino,pelegɾino,TV.RV.TRV.RV,CV.CV.CCV.CV
 Péli,peːli,TV.RV,CV.CV
 Pelo,pelo,TV.RV,CV.CV
 Pelour,pelouɾ,TV.RVGR,CV.CVGC
-Penerá,peneɾaː,TV.RV.RV,CV.CV.CV
+Penerá,peneɾaː,TV.RVRV,CV.CVCV
 Pénès,peːneːs,TV.RVS,CV.CVC
 pànès,paːneːs,TV.RVS,CV.CVC
 Penetenti,penetenti,TV.RV.TVR.TV,CV.CV.CVC.CV
 Péshon,peːʃon,TV.TVR,CV.CVC
-Pequinino,pekinino,TV.TV.RV.RV,CV.CV.CV.CV
+Pequinino,pekinino,TV.TV.RVRV,CV.CV.CVCV
 Pequino,pekino,TV.TV.RV,CV.CV.CV
 Per,peɾ,TVR,CVC
 pera,peɾa,TV.RV,CV.CV
@@ -1827,7 +1827,7 @@ Plánchè,plaːnt̠ʃeː,TRVR.TV,CCVC.CV
 Planétè,planeːteː,TRV.RV.TV,CCV.CV.CV
 Plat,plat,TRV.T,CCV.C
 Plein,plein,TRVGR,CCVGC
-Plenári,plenaːɾi,TRV.RV.RV,CCV.CV.CV
+Plenári,plenaːɾi,TRV.RVRV,CCV.CVCV
 Plenidão,plenidaːo,TRV.RV.TV.V,CCV.CV.CV.V
 Ploi,ploj,TRVR,CCVC
 Póbir,poːbiɾ,TV.TVR,CV.CVC
@@ -1912,7 +1912,7 @@ Preténcia,pɾeteːnsia,TRV.TVR.SV.V,CCV.CVC.CV.V
 Prevalá,pɾeʋalaː,TRV.TV.RV,CCV.CV.CV
 Prevalência,pɾeʋaleːnsia,TRV.TV.RVR.SV.V,CCV.CV.CVC.CV.V
 Primacia,pɾimasia,TRV.RV.SV.V,CCV.CV.CV.V
-Priméro,pɾimeːɾo,TRV.RV.RV,CCV.CV.CV
+Priméro,pɾimeːɾo,TRV.RVRV,CCV.CVCV
 Primeté,pɾimeteː,TRV.RV.TV,CCV.CV.CV
 primité,pɾimiteː,TRV.RV.TV,CCV.CV.CV
 primitá,pɾimitaː,TRV.RV.TV,CCV.CV.CV
@@ -2095,7 +2095,7 @@ Restorá,restoɾaː,RVS.TV.RV,CVC.CV.CV
 Restoração,restoɾasaːo,RVS.TV.RV.SV.V,CVC.CV.CV.CV.V
 Retorná,retoɾnaː,RV.TVR.RV,CV.CVC.CV
 Retórna,retoːɾna,RV.TVR.RV,CV.CVC.CV
-Revereno,reʋeɾeno,RV.TV.RV.RV,CV.CV.CV.CV
+Revereno,reʋeɾeno,RV.TV.RVRV,CV.CV.CVCV
 Rexinol,reʃinol,RV.TV.RVR,CV.CV.CVC
 Rezão,rezaːo,RV.SV.V,CV.CV.V
 rezan,rezan,RV.SVR,CV.CVC
@@ -2184,7 +2184,7 @@ Seite,seite,SVG.TV,CVG.CV
 Séja,seːd̠ʒa,SV.TV,CV.CV
 seija,seid̠ʒa,SVG.TV,CVG.CV
 Sem,sem,SVR,CVC
-Semalhança,semaʎansa,SV.RV.RVR.SV,CV.CV.CVC.CV
+Semalhança,semaʎansa,SV.RVRVR.SV,CV.CVCVC.CV
 semeIhancè,semeianseː,SV.RVG.VR.SV,CV.CVG.VC.CV
 Sementria,sementɾia,SV.RVR.TRV.V,CV.CVC.CCV.V
 Sempetemo,sempetemo,SVR.TV.TV.RV,CVC.CV.CV.CV
@@ -2192,7 +2192,7 @@ sempretemo,sempɾetemo,SVR.TRV.TV.RV,CVC.CCV.CV.CV
 sempieterno,sempieteɾno,SVR.TV.V.TVR.RV,CVC.CV.V.CVC.CV
 Sen,sen,SVR,CVC
 Senan,senan,SV.RVR,CV.CVC
-Senhoris,seɲoɾis,SV.RV.RVS,CV.CV.CVC
+Senhoris,seɲoɾis,SV.RVRVS,CV.CVCVC
 Sentencia,sentensia,SVR.TVR.SV.V,CVC.CVC.CV.V
 Seperá,sepeɾaː,SV.TV.RV,CV.CV.CV
 Separação,sepaɾasaːo,SV.TV.RV.SV.V,CV.CV.CV.CV.V
@@ -2215,7 +2215,7 @@ Simple,simple,SVR.TRV,CVC.CCV
 simplo,simplo,SVR.TRV,CVC.CCV
 Sinceiro,sinseiɾo,SVR.SVG.RV,CVC.CVG.CV
 Sincoventè,sinkoʋenteː,SVR.TV.TVR.TV,CVC.CV.CVC.CV
-Sinhárè,siɲaːɾeː,SV.RV.RV,CV.CV.CV
+Sinhárè,siɲaːɾeː,SV.RVRV,CV.CVCV
 Sinho,siɲo,SV.RV,CV.CV
 Sinté,sinteː,SVR.TV,CVC.CV
 Sintemento,sintemento,SVR.TV.RVR.TV,CVC.CV.CVC.CV
@@ -2250,7 +2250,7 @@ sombralho,sombɾaʎo,SVR.TRV.RV,CVC.CCV.CV
 Sombrè,sombɾeː,SVR.TRV,CVC.CCV
 sómber,soːmbeɾ,SVR.TVR,CVC.CVC
 Sombreiro,sombɾeiɾo,SVR.TRVG.RV,CVC.CCVG.CV
-sumberaro,sumbeɾaɾo,SVR.TV.RV.RV,CVC.CV.CV.CV
+sumberaro,sumbeɾaɾo,SVR.TV.RVRV,CVC.CV.CVCV
 Sometido,sometido,SV.RV.TV.TV,CV.CV.CV.CV
 Sonento,sonento,SV.RVR.TV,CV.CVC.CV
 Stal,stal,S.TVR,C.CVC
@@ -2266,10 +2266,10 @@ Suffri,sufɾi,SV.TRV,CV.CCV
 Suffrador,sufɾadoɾ,SV.TRV.TVR,CV.CCV.CVC
 Sujaza,sud̠ʒaza,SV.TV.SV,CV.CV.CV
 Sujo,sud̠ʒo,SV.TV,CV.CV
-Sumana,sumana,SV.RV.RV,CV.CV.CV
-sumanè,sumaneː,SV.RV.RV,CV.CV.CV
+Sumana,sumana,SV.RVRV,CV.CVCV
+sumanè,sumaneː,SV.RVRV,CV.CVCV
 Suo,suo,SV.V,CV.V
-Superemo,supeɾemo,SV.TV.RV.RV,CV.CV.CV.CV
+Superemo,supeɾemo,SV.TV.RVRV,CV.CV.CVCV
 Supo,supo,SV.TV,CV.CV
 Supportá,supoɾtaː,SV.TVR.TV,CV.CVC.CV
 supertá,supeɾtaː,SV.TVR.TV,CV.CVC.CV
@@ -2307,18 +2307,18 @@ Tea,tea,TV.V,CV.V
 Telegramo,telegɾamo,TV.RV.TRV.RV,CV.CV.CCV.CV
 Telhada,teʎada,TV.RV.TV,CV.CV.CV
 Tem,tem,TVR,CVC
-Temaro,temaɾo,TV.RV.RV,CV.CV.CV
+Temaro,temaɾo,TV.RVRV,CV.CVCV
 Témper,teːmpeɾ,TVR.TVR,CVC.CVC
 Tempésta,tempeːsta,TVR.TVS.TV,CVC.CVC.CV
 Tend,tend,TVR.T,CVC.C
 Tenro,tenɾo,TVR.RV,CVC.CV
 Tenteção,tentesaːo,TVR.TV.SV.V,CVC.CV.CV.V
-Terano,teɾano,TV.RV.RV,CV.CV.CV
+Terano,teɾano,TV.RVRV,CV.CVCV
 Terivel,teɾiʋel,TV.RV.TVR,CV.CV.CVC
 Terrestrial,terestɾial,TV.RVS.TRV.VR,CV.CVC.CCV.VC
 Tesá,tezaː,TV.SV,CV.CV
 Teçan,tesan,TV.SVR,CV.CVC
-Testimonio,testimonio,TVS.TV.RV.RV.V,CVC.CV.CV.CV.V
+Testimonio,testimonio,TVS.TV.RVRV.V,CVC.CV.CVCV.V
 Thesóura,tezoːuɾa,TV.SV.V.RV,CV.CV.V.CV
 thesauro,tezauɾo,TV.SVG.RV,CV.CVG.CV
 Thesouria,tezouɾia,TV.SVG.RV.V,CV.CVG.CV.V
